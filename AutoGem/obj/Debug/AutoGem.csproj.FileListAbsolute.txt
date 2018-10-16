@@ -1,0 +1,15 @@
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\AutoGem.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\AutoGem.pdb
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\OTAPI.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\TerrariaServer.exe
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\TShockAPI.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\HttpServer.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\MySql.Data.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\BCrypt.Net.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\obj\Debug\AutoGem.csprojAssemblyReference.cache
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\obj\Debug\AutoGem.csproj.CoreCompileInputs.cache
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\obj\Debug\AutoGem.csproj.CopyComplete
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\obj\Debug\AutoGem.dll
+C:\Users\Fryke\Desktop\Terraria Projects\AutoGem\AutoGem\obj\Debug\AutoGem.pdb
